@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Monsterrat;
+    src: url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Preahvihear&display=swap");
+}
+
+body{
+    font-family: Monsterat;
+}
+
+ion-icon {
+    color: blue;
+  }
